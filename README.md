@@ -7,4 +7,5 @@ This is a learning repo for BAI-1A section
 image, added in the Markdown, of an Octocat smiling and
 raising a
 
-tentacle.]((https://variety.com/wp-content/uploads/2016/05/netflix-fast-com.jpg?w=640&h=351&crop=1)
+tentacle.](https://myoctocat.com/assets/images/base-
+octocat.svg)
